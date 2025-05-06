@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/EmergencyDispatcherSimulator/cmake-build-debug/CMakeFiles/EmergencyDispatcherSimulator.dir
+C:/Users/USER/CLionProjects/EmergencyDispatcherSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/EmergencyDispatcherSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
